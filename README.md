@@ -1,2 +1,6 @@
 # ML-project
-House Prediction Model 
+House  Price Prediction Model 
+Submarine vs mine
+Diabetes prediction
+Fake vs Real news classification
+
